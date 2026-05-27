@@ -21,14 +21,13 @@ The project was designed to demonstrate proper PCB layout techniques, circuit or
 
 # Components Used
 
-- Resistors
-- Capacitors
-- ICs / Microcontrollers
-- Connectors
-- LEDs
-- Voltage Regulators
-- Header Pins
-- Other Electronic Components
+| ID | Component | Designator | Footprint | Quantity |
+|----|------------|-------------|------------|-----------|
+| 1 | 100nF Capacitor | C1, C3, C4 | C0201 | 3 |
+| 2 | 22uF Capacitor | C2, C5 | C0603 | 2 |
+| 3 | 10kΩ Resistor | R1 | R0402 | 1 |
+| 4 | 220Ω Resistor | R2 | R0402 | 1 |
+| 5 | TSA343G00D-250J2 Switch | SW1, SW2 | SW-SMD_L4.0-W2.9-P4.15-EH | 2 |
 
 ---
 
