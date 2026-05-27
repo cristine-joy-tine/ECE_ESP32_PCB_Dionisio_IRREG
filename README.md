@@ -33,7 +33,7 @@ The project was designed to demonstrate proper PCB layout techniques, circuit or
 
 # Software Used
 
-- EasyEDA / KiCad
+- EasyEDA
 - PCB Design Software
 - Gerber Export Tools
 
