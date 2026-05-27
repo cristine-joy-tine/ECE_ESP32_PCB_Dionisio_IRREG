@@ -1,7 +1,5 @@
 # ECE_ESP32_PCB_Dionisio_IRREG
 
-# Cristine Joy Dionisio
-
 ## Project Description
 
 This project is a PCB design created for Electronics Engineering requirements. The repository contains the schematic diagram, PCB layout, Gerber files, source files, and screenshots related to the project design and development process.
@@ -57,7 +55,7 @@ The project was designed to demonstrate proper PCB layout techniques, circuit or
 ## Schematic Diagram
 ![Schematic](images/Schematic%20Diagram.jpg)
 
----^
+---
 
 # Author Information
 
@@ -68,5 +66,5 @@ The project was designed to demonstrate proper PCB layout techniques, circuit or
 
 # Contact Details
 
-Github: https://github.com/cristine-joy-tine
-Email: cristinejoydionisio4@gmail.com
+- Github: https://github.com/cristine-joy-tine
+- Email: cristinejoydionisio4@gmail.com
