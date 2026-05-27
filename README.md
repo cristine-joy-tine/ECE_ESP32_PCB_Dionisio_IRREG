@@ -34,7 +34,7 @@ The project was designed to demonstrate proper PCB layout techniques, circuit or
 
 ---
 
-# 💻 Software Used
+# Software Used
 
 - EasyEDA / KiCad
 - PCB Design Software
@@ -42,7 +42,7 @@ The project was designed to demonstrate proper PCB layout techniques, circuit or
 
 ---
 
-# 🖼️ PCB Images & Screenshots
+# PCB Images & Screenshots
 
 ## PCB Layout
 ![PCB Layout](images/PCB%20Layout%20Screenshot.jpg)
@@ -59,14 +59,14 @@ The project was designed to demonstrate proper PCB layout techniques, circuit or
 
 ---^
 
-# 👩‍💻 Author Information
+# Author Information
 
 - Name: Cristine Joy Dionisio
 - Course & Section: Irreg
 
 ---
 
-# Contact Information
+# Contact Details
 
 Github: https://github.com/cristine-joy-tine
 Email: cristinejoydionisio4@gmail.com
